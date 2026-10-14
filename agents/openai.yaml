@@ -1,0 +1,4 @@
+interface:
+  display_name: "RepoMentor 源码学习导师"
+  short_description: "克隆项目并生成完整源码教程，逐章讲解、提供章节测验并保存学习进度"
+  default_prompt: "使用 $repo-mentor 分析这个仓库，先生成完整的中文源码教程，再让我选择章节学习和测验。"
